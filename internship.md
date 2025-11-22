@@ -17,6 +17,12 @@ Good luck — the journey starts *today*. 🌟
 
 # 🎯 **1. PLAN FOR INTERNSHIPS IN 4 MONTHS**
 
+## 🔗 **Useful Internship Links (No CGPA Needed)**  
+- **NO CGPA Internship Opportunities List:**  
+  https://github.com/Jr-Einstein/Hackathon/blob/main/README.md  
+
+---
+
 ## **Weekly Breakdown Table**
 
 | Timeframe | Task | Goal |
@@ -71,7 +77,6 @@ Use these for instant UI/UX + prototypes:
 - v0.dev  
 - MakeMyApp  
 - Bolt  
-- (or any no-code MVP tool)
 
 ### 💡 **Hack for Productivity**  
 - Use GitHub to explore ideas  
@@ -178,6 +183,6 @@ This 4-month plan is designed to transform you from:
 ✔️ Lost time → **Real Growth**  
 
 Believe in yourself.  
-**Now go build. Go apply. Go win.** 🚀🔥  
+**Now go build. Now go apply. Now go win.** 🚀🔥  
 
 ---
